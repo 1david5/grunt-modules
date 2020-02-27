@@ -8,4 +8,3 @@ resource "aws_db_instance" "example" {
   password          = "password"
   skip_final_snapshot = true
 }
-s
